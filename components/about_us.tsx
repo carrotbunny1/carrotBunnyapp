@@ -100,7 +100,7 @@ export function Hero() {
             <div className="relative w-full aspect-square md:aspect-[5/4] rounded-xl overflow-hidden bg-gradient-to-br from-orange-100 to-orange-50 dark:from-orange-900/20 dark:to-background">
               <div className="absolute inset-0 flex items-center justify-center ">
                 <img 
-                  src="/images/website_logo/carrotbunny.jpeg" 
+                  src="../images/Website_logo/carrotbunny.jpeg" 
                   alt="Influencer marketing" 
                   className="object-cover w-full h-full rounded-xl "
                 />
