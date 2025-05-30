@@ -59,7 +59,7 @@ export function Team() {
         <div className="text-center mb-12">
           <h2 className="text-3xl md:text-4xl font-bold mb-4">Meet Our Team</h2>
           <p className="text-muted-foreground max-w-2xl mx-auto">
-            We're a diverse team of marketing experts, data analysts, and creative strategists passionate about connecting brands with the right influencers.
+            We&apos;re a diverse team of marketing experts, data analysts, and creative strategists passionate about connecting brands with the right influencers.
           </p>
         </div>
 

@@ -72,7 +72,7 @@ export function Testimonials() {
         <div className="text-center mb-12">
           <h2 className="text-3xl md:text-4xl font-bold mb-4">What Our Clients Say</h2>
           <p className="text-muted-foreground max-w-2xl mx-auto">
-            Don't just take our word for it. Hear from the brands that have transformed their marketing with CarrotBunny.
+            Don&apos;t just take our word for it. Hear from the brands that have transformed their marketing with CarrotBunny.
           </p>
         </div>
 
@@ -104,7 +104,7 @@ export function Testimonials() {
                             <Star key={i} className="fill-orange-500 stroke-none w-4 h-4" />
                           ))}
                         </div>
-                        <p className="text-lg mb-4 italic">"{testimonial.content}"</p>
+                        <p className="text-lg mb-4 italic">&quot;{testimonial.content}&quot;</p>
                         <div>
                           <h4 className="font-bold">{testimonial.name}</h4>
                           <p className="text-sm text-muted-foreground">

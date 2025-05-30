@@ -68,3 +68,6 @@ export const motion = {
     );
   })
 };
+
+
+motion.div.displayName = 'MotionDiv';

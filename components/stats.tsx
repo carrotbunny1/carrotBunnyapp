@@ -62,7 +62,7 @@ export function Stats() {
         <div className="text-center mb-12">
           <h2 className="text-3xl md:text-4xl font-bold mb-4">Our Impact by the Numbers</h2>
           <p className="max-w-2xl mx-auto opacity-90">
-            We've helped brands of all sizes amplify their message and connect with audiences that matter.
+            We&apos;ve helped brands of all sizes amplify their message and connect with audiences that matter.
           </p>
         </div>
 

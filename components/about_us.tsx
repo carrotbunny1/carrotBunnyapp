@@ -58,7 +58,7 @@ export function Hero() {
             </h1>
             
             <p className="text-lg text-muted-foreground md:text-xl md:pr-12">
-              Connect with the perfect content creators to grow your brand's reach, engagement, and revenue with data-driven influencer marketing.
+              Connect with the perfect content creators to grow your brand&apos;s reach, engagement, and revenue with data-driven influencer marketing.
             </p>
             
             <div className="flex flex-col sm:flex-row gap-4 mt-2">
@@ -69,7 +69,7 @@ export function Hero() {
             </div>
             
             <div className="mt-8 text-sm text-muted-foreground">
-              Trusted by India's Top Leading Brands.
+              Trusted by India&apos;s Top Leading Brands.
             </div>
             
             <div className="flex flex-wrap gap-8 mt-2">

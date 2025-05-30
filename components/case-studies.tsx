@@ -90,7 +90,7 @@ export function CaseStudies() {
         <div className="text-center mb-12">
           <h2 className="text-3xl md:text-4xl font-bold mb-4">Case Studies</h2>
           <p className="text-muted-foreground max-w-2xl mx-auto">
-            Discover how we've helped brands across different industries achieve remarkable results through strategic influencer partnerships.
+            Discover how we&apos;ve helped brands across different industries achieve remarkable results through strategic influencer partnerships.
           </p>
         </div>
 
