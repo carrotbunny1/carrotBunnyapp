@@ -63,7 +63,7 @@ export function Hero() {
             
             <div className="flex flex-col sm:flex-row gap-4 mt-2">
               <Button size="lg" className="bg-orange-500 hover:bg-orange-600" onClick={scrollToContact}>
-                Start Your Campaignssss
+                Start Your Campaign
                 <ChevronRight className="ml-2 h-4 w-4" />
               </Button>
             </div>
@@ -100,7 +100,7 @@ export function Hero() {
             <div className="relative w-full aspect-square md:aspect-[5/4] rounded-xl overflow-hidden bg-gradient-to-br from-orange-100 to-orange-50 dark:from-orange-900/20 dark:to-background">
               <div className="absolute inset-0 flex items-center justify-center ">
                 <img 
-                  src="../images/website_logo/carrotbunny.svg" 
+                  src="/images/website_logo/carrotbunny.jpeg" 
                   alt="Influencer marketing" 
                   className="object-cover w-full h-full rounded-xl "
                 />
