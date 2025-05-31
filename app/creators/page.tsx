@@ -48,7 +48,7 @@ export default function CreatorsPage() {
     {
       name: "Sukhjit_Karan vlogs",
       handle: "@sardarni.sukhjit",
-      image: "../images/Creators/",
+      image: "../images/Creators/sardarni.sukhjit.jpg",
       social: {
         instagram: "112K",
         link: "https://www.instagram.com/sardarni.sukhjit/"
@@ -91,7 +91,7 @@ export default function CreatorsPage() {
       }
     },
     {
-      name: "Mialn Singhal",
+      name: "Milan Singhal",
       handle: "@bytetrails",
       image: "../images/Creators/milansinghal.jpg",
       social: {
