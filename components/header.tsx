@@ -135,7 +135,7 @@ function NavLinks({ mobile = false, onClick = () => {} }) {
     { label: 'Services', href: '#services' },
 /*    { label: 'Case Studies', href: '#case-studies' },*/
     { label: 'Creators', href: '/creators' }, 
-    { label: 'About Us', href: '#team' },
+    { label: 'About U', href: '#team' },
 /*    { label: 'Contact', href: '#contact' }, */
   ];
 
