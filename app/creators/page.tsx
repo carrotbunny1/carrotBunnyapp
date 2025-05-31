@@ -21,7 +21,7 @@ export default function CreatorsPage() {
     {
       name: "Ashish Verma",
       handle: "@ashishverma___",
-      image: "../images/creators/ashishverma.jpg",
+      image: "../images/Creators/ashishverma.jpg",
       social: {
         instagram: "179K",
         link: "https://www.instagram.com/ashishverma___/"
@@ -30,7 +30,7 @@ export default function CreatorsPage() {
     {
       name: "Rupali Chetwani",
       handle: "@traveogram",
-      image: "../images/creators/rupalichetwani.jpg",
+      image: "../images/Creators/rupalichetwani.jpg",
       social: {
         instagram: "80.5K",
         link: "https://www.instagram.com/traveogram/"
@@ -39,7 +39,7 @@ export default function CreatorsPage() {
     {
       name: "Debajit Das",
       handle: "@nitin_vlogs_",
-      image: "../images/creators/nitinvlogs.jpg",
+      image: "../images/Creators/nitinvlogs.jpg",
       social: {
         instagram: "1.5M",
         link: "https://www.instagram.com/nitin_vlogs_/"
@@ -48,7 +48,7 @@ export default function CreatorsPage() {
     {
       name: "Sukhjit_Karan vlogs",
       handle: "@sardarni.sukhjit",
-      image: "../images/creators/",
+      image: "../images/Creators/",
       social: {
         instagram: "112K",
         link: "https://www.instagram.com/sardarni.sukhjit/"
@@ -57,7 +57,7 @@ export default function CreatorsPage() {
     {
       name: "Angad Johar",
       handle: "@joharangad",
-      image: "../images/creators/angadjohar.jpg",
+      image: "../images/Creators/angadjohar.jpg",
       social: {
         instagram: "105K",
         link: "https://www.instagram.com/joharangad/"
@@ -66,7 +66,7 @@ export default function CreatorsPage() {
     {
       name: "Ajay Kumar",
       handle: "@soulfulvlogs07",
-      image: "../images/creators/ajaykumar.jpg",
+      image: "../images/Creators/ajaykumar.jpg",
       social: {
         instagram: "273K",
         link: "https://www.instagram.com/soulfulvlogs07/"
@@ -75,7 +75,7 @@ export default function CreatorsPage() {
     {
       name: "Poonam Yadav",
       handle: "@yogawithpoonam",
-      image: "../images/creators/poonamyadav.jpg",
+      image: "../images/Creators/poonamyadav.jpg",
       social: {
         instagram: "337K",
         link: "https://www.instagram.com/yogawithpoonam/"
@@ -84,7 +84,7 @@ export default function CreatorsPage() {
     {
       name: "Kashish Soni",
       handle: "@tasty_trekk",
-      image: "../images/creators/kashishsoni.jpg",
+      image: "../images/Creators/kashishsoni.jpg",
       social: {
         instagram: "45.8K",
         link: "https://www.instagram.com/tasty_trekk/"
@@ -93,7 +93,7 @@ export default function CreatorsPage() {
     {
       name: "Mialn Singhal",
       handle: "@bytetrails",
-      image: "../images/creators/milansinghal.jpg",
+      image: "../images/Creators/milansinghal.jpg",
       social: {
         instagram: "201K",
         link: "https://www.instagram.com/bytetrails"
@@ -102,7 +102,7 @@ export default function CreatorsPage() {
     {
       name: "Amir Sheikh",
       handle: "@nagpur_xfactor_",
-      image: "../images/creators/amirsheikh.jpg",
+      image: "../images/Creators/amirsheikh.jpg",
       social: {
         instagram: "347K",
         link: "http://instagram.com/nagpur_xfactor_"
@@ -111,7 +111,7 @@ export default function CreatorsPage() {
     {
       name: "Prajjawal Prajapati",
       handle: "@streets.of.prayagraj",
-      image: "../images/creators/prajjawalprajapati.jpg",
+      image: "../images/Creators/prajjawalprajapati.jpg",
       social: {
         instagram: "1M",
         link: "https://www.instagram.com/streets.of.prayagraj"
