@@ -134,7 +134,7 @@ function NavLinks({ mobile = false, onClick = () => {} }) {
   const navItems = [
     { label: 'Services', href: '#services' },
 /*    { label: 'Case Studies', href: '#case-studies' },*/
-/*    { label: 'Creators', href: '/creators' }, */
+    { label: 'Creators', href: '/creators' }, 
     { label: 'About Us', href: '#team' },
 /*    { label: 'Contact', href: '#contact' }, */
   ];
