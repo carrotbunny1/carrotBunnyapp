@@ -12,7 +12,7 @@ export default function CreatorsPage() {
     {
       name: "Kanishk Jayant",
       handle: "@kanishkjayant",
-      image: "../images/creators/kanishk.jpg",
+      image: "../images/Creators/kanishk.jpg",
       social: {
         instagram: "126K",
         link: "https://www.instagram.com/kanishkjayant/"
