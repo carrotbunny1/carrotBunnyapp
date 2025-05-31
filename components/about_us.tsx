@@ -100,7 +100,7 @@ export function Hero() {
             <div className="relative w-full aspect-square md:aspect-[5/4] rounded-xl overflow-hidden bg-gradient-to-br from-orange-100 to-orange-50 dark:from-orange-900/20 dark:to-background">
               <div className="absolute inset-0 flex items-center justify-center ">
                 <img 
-                  src="/images/Website_logo/carrotbunny.jpeg" 
+                  src="/images/websitelogo/carrotbunny.jpeg" 
                   alt="Influencer marketing" 
                   className="object-cover w-full h-full rounded-xl "
                 />
@@ -115,7 +115,7 @@ export function Hero() {
                 <div className="p-2.5 rounded-full bg-orange-100 dark:bg-orange-900/20 mb-2">
                   <MousePointer className="h-5 w-5 text-orange-500" />
                 </div>
-                <span className="text-2xl font-bold">📈100M</span>
+                <span className="text-2xl font-bold">100M</span>
                 <span className="text-xs text-center text-muted-foreground">Audience Reached</span>
               </div>
               
