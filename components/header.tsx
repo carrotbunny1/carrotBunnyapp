@@ -132,10 +132,11 @@ export function Header() {
 
 function NavLinks({ mobile = false, onClick = () => {} }) {
   const navItems = [
-    { label: 'Services', href: '#services' },
+    
 /*    { label: 'Case Studies', href: '#case-studies' },*/
+    { label: 'About Us', href: '#team' },
     { label: 'Creators', href: '/creators' }, 
-    { label: 'About U', href: '#team' },
+    { label: 'Services', href: '#services' },
 /*    { label: 'Contact', href: '#contact' }, */
   ];
 
