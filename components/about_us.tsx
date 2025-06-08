@@ -97,7 +97,7 @@ export function Hero() {
             transition={{ duration: 0.5, delay: 0.2 }}
             className="relative"
           >
-            <div className="relative w-full aspect-square md:aspect-[5/4] rounded-xl overflow-hidden bg-gradient-to-br from-orange-100 to-orange-50 dark:from-orange-900/20 dark:to-background">
+            <div className="relative w-full aspect-square md:aspect-[5/4] rounded-xl overflow-hidden bg-gradient-to-br from-orange-100 to-orange-50 dark:from-orange-900/20 dark:to-background transform -translate-y-4">
               <div className="absolute inset-0 flex items-center justify-center ">
                 <img 
                   src="/images/websitelogo/carrotbunny.jpeg" 
