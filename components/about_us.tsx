@@ -109,7 +109,7 @@ export function Hero() {
             
             <div 
               ref={statsRef}
-              className="absolute -bottom-24 left-1/2 transform -translate-x-1/2 w-[95%] bg-background rounded-xl p-6 shadow-lg grid grid-cols-3 gap-3"
+              className="absolute -bottom-24 left-1/2 transform -translate-x-1/2 w-[95%] bg-background rounded-xl p-6 shadow-lg grid grid-cols-3 gap-5"
             >
               <div className="stat-item opacity-0 transition-opacity duration-700 delay-100 flex flex-col items-center">
                 <div className="p-2.5 rounded-full bg-orange-100 dark:bg-orange-900/20 mb-2">
