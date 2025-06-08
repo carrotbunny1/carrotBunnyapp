@@ -43,7 +43,7 @@ export function Hero() {
   };
 
   return (
-    <section className="pt-24 md:pt-32 pb-16 md:pb-24 overflow-hidden">
+    <section className="pt-28 md:pt-32 pb-16 md:pb-28 overflow-hidden">
       <div className="container mx-auto px-4">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           <motion.div 
@@ -109,7 +109,7 @@ export function Hero() {
             
             <div 
               ref={statsRef}
-              className="absolute -bottom-28 left-1/2 transform -translate-x-1/2 w-[90%] bg-background rounded-xl p-6 shadow-lg grid grid-cols-3 gap-4"
+              className="absolute -bottom-24 left-1/2 transform -translate-x-1/2 w-[90%] bg-background rounded-xl p-6 shadow-lg grid grid-cols-3 gap-4"
             >
               <div className="stat-item opacity-0 transition-opacity duration-700 delay-100 flex flex-col items-center">
                 <div className="p-2.5 rounded-full bg-orange-100 dark:bg-orange-900/20 mb-2">
