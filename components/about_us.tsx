@@ -88,6 +88,16 @@ export function Hero() {
                 alt="Portronics" 
                 className="h-8 dark:invert" 
               />
+               <img 
+                src="../images/Brands/Warmee.svg" 
+                alt="Warmee" 
+                className="h-8 dark:invert" 
+              />
+               <img 
+                src="../images/Brands/Nysh.svg" 
+                alt="Nysh" 
+                className="h-8 dark:invert" 
+              />
             </div>
           </motion.div>
           
