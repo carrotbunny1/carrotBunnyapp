@@ -84,8 +84,8 @@ export function Hero() {
                 className="h-8 dark:invert" 
               />
               <img 
-                src="../images/Brands/zouk.svg" 
-                alt="ZOUK" 
+                src="../images/Brands/Portronics.svg" 
+                alt="Portronics" 
                 className="h-8 dark:invert" 
               />
             </div>
