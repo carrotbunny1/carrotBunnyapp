@@ -100,7 +100,7 @@ export function Footer() {
           ))}*/}
         </div>
         
-        <div className="border-t border-border py-6 flex flex-col md:flex-row justify-center text-sm text-muted-foreground ">
+        <div className="border-t border-border py-6 flex flex-col md:flex-row justify-center text-sm text-muted-foreground text-center ">
           <p >© {currentYear} CarrotBunny. All rights reserved.</p>
           {/* <div className="mt-4 md:mt-0">
             <Link href="#" className="hover:text-foreground transition-colors">
