@@ -98,6 +98,11 @@ export function Hero() {
                 alt="Nysh" 
                 className="h-8 dark:invert" 
               />
+              <img 
+                src="../images/Brands/decathlon-logo.svg" 
+                alt="Decathlon" 
+                className="h-8 dark:invert" 
+              />
             </div>
           </motion.div>
           
