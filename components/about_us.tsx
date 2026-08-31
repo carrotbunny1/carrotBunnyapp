@@ -89,13 +89,13 @@ export function Hero() {
                 className="h-8 dark:invert" 
               />
                <img 
-                src="../images/Brands/Warmee.svg" 
+                src="../images/Brands/warmee_logo.svg" 
                 alt="Warmee" 
                 className="h-8 dark:invert" 
               />
                <img 
-                src="../images/Brands/Nysh.svg" 
-                alt="Nysh" 
+                src="../images/Brands/BluHeat_Logo.svg" 
+                alt="BluHeat" 
                 className="h-8 dark:invert" 
               />
               <img 
