@@ -84,7 +84,7 @@ export function Hero() {
                 className="h-8 dark:invert" 
               />
               <img 
-                src="../images/Brands/Portronics.svg" 
+                src="../images/Brands/portronics_logo.svg" 
                 alt="Portronics" 
                 className="h-8 dark:invert" 
               />
