@@ -74,8 +74,8 @@ export function Hero() {
             
             <div className="flex flex-wrap gap-8 mt-2">
               <img 
-                src="../images/Brands/Zing-Bus.svg" 
-                alt="ZingBus" 
+                src="../images/Brands/Hosteller.svg" 
+                alt="Hosteller" 
                 className="h-8 dark:invert" 
               />
               <img 
@@ -103,6 +103,16 @@ export function Hero() {
                 alt="Decathlon" 
                 className="h-8 dark:invert" 
               />
+              <img 
+                src="../images/Brands/Skyjumper.svg" 
+                alt="Skyjumper" 
+                className="h-8 dark:invert" 
+              />
+              <img 
+                src="../images/Brands/cashify.svg" 
+                alt="cashify" 
+                className="h-8 dark:invert" 
+              />
             </div>
           </motion.div>
           
@@ -115,7 +125,7 @@ export function Hero() {
             <div className="relative w-full aspect-square md:aspect-[5/4] rounded-xl overflow-hidden bg-gradient-to-br from-orange-100 to-orange-50 dark:from-orange-900/20 dark:to-background transform -translate-y-5">
               <div className="absolute inset-0 flex items-center justify-center ">
                 <img 
-                  src="/images/websitelogo/carrotbunny_1.png" 
+                  src="/images/websitelogo/carrotbunny.jpeg" 
                   alt="Influencer marketing" 
                   className="object-cover w-full h-full rounded-xl "
                 />
