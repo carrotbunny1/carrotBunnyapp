@@ -99,7 +99,7 @@ export function Hero() {
                 className="h-8 dark:invert" 
               />
               <img 
-                src="../images/Brands/decathlon-logo.svg" 
+                src="../images/Brands/decathlon.svg" 
                 alt="Decathlon" 
                 className="h-8 dark:invert" 
               />
